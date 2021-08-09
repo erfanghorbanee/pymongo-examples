@@ -56,7 +56,7 @@ print("4- Calculate sum of prices of all the products in each category.\n")
 print("5- See the number of products in each category.\n")
 print("0- Exit\n")
 
-print("Attention!!!\ndon't enter 1, two times in a row or you get an error becouse you're wanting the program to overwrite database with duplicated keys")
+print("Attention!!!\ndon't enter 1, two times in a row or you get an error because you're wanting the program to overwrite database with duplicated keys")
 
 
 while(True):
